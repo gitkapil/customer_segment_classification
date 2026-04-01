@@ -2,7 +2,6 @@
 
 A comprehensive Python project for e-commerce customer segmentation and classification using machine learning.
 
-**Based on:** `customer-segmentation.ipynb` notebook - converted to a production-ready Python project with modular architecture and professional documentation.
 
 ## Project Overview
 
@@ -40,9 +39,7 @@ customerSegmentClassification/
 └── PROJECT_SUMMARY.md             # Project summary and conversion notes
 ```
 
-## Source & Background
 
-This project is a **professional conversion** of the original **`customer-segmentation.ipynb`** Jupyter notebook into a production-ready Python package. See [NOTEBOOK_CONVERSION.md](NOTEBOOK_CONVERSION.md) for detailed mapping of notebook sections to modules.
 
 ## Installation & Setup
 
